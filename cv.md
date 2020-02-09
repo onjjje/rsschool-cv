@@ -17,3 +17,16 @@ I like to program, I want to learn this and be a good specialist.
  - Metodologies: BEM
  - CMS: Joomla, Wordpress, Bitrix
  - Graphic: Photoshop, Figma
+
+### Code
+ [Codepen.io] (https://codepen.io/basseZ/pens/)
+
+### Experience
+11 years developed sites on Joomla.  
+Layout without JS.
+
+### Education
+ - GOMEL STATE UNIVERSITY NAMED AFTER FRANCIS SKORINA (Production Physics)
+
+### English 
+ - Level: A2
