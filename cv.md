@@ -1,7 +1,7 @@
 ## Govorushkin Nikodim
 
 ### Contact Info
- - Email: [presetslr@gmail.com](mailto:onjjje@gmail.com)
+ - Email: [onjjje@gmail.com](mailto:onjjje@gmail.com)
  - Tel: [+3752965194444](tel:+375296519444)
  - Telegram: [@basseZ](https://t.me/bassez)
  - Skype: bassezgm
@@ -11,7 +11,7 @@
 I like to program, I want to learn this and be a good specialist.  
 
 ### Skills
- - Technologies / Languages: HTML & CSS, JavaScript, C++ (Arduino), PHP
+ - Technologies / Languages: HTML & CSS, JavaScript, PHP
  - CSS Frameworks: Bootstrap
  - JS Lib / Frameworks: jQuery
  - Metodologies: BEM
