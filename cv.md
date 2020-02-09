@@ -19,7 +19,7 @@ I like to program, I want to learn this and be a good specialist.
  - Graphic: Photoshop, Figma
 
 ### Code
- [Codepen.io] (https://codepen.io/basseZ/pens/)
+ [Codepen.io](https://codepen.io/basseZ/pens/)
 
 ### Experience
 11 years developed sites on Joomla.  
