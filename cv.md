@@ -4,7 +4,7 @@
  - Email: [presetslr@gmail.com](mailto:onjjje@gmail.com)
  - Tel: [+3752965194444](tel:+375296519444)
  - Telegram: [@basseZ](https://t.me/bassez)
- - Skype: [@bassezgm] (@bassezgm)
+ - Skype: bassezgm
 
 ### Summary
 30 years.  
