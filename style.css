@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.profile {
+    position: relative;
+    top: 24px;
+    display: block;
+    width: 1024px;
+    margin: 0 auto;
+    height: auto;
+    text-align: center;
+    background: rgb(232, 232, 232);
+    border-radius: 8px;
+}
+
+.profile img {
+    position: relative;
+    margin-top: 12px;
+    border-radius: 50%;
+}
+
+.profile h1, .profile h2 {
+    margin: 12px;
+    border-bottom: 2px solid white;
+}
+
+.profile ul {
+    margin: 24px;
+}
+.profile ul li {
+    margin: 12px;
+    list-style-type: none;
+}
